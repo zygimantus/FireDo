@@ -1,0 +1,16 @@
+{
+  "title": "FireDo",
+  "name": "firedo",
+  "version": "0.0.1",
+  "description": "Bookmarks TODO manager",
+  "main": "lib/main.js",
+  "author": "Zygimantus",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
